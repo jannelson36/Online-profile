@@ -1,6 +1,11 @@
 # School Term Project
-HTML, Javascript and CSS Static web pages for school mid-level projects
 
-FarmX- Displays fully functional farm web pages.
+**HTML, Javascript** and **CSS** static web pages for school **mid-level projects**
 
-Jann - Displays an example of a portofolio design
+## FarmX
+
+      * Displays fully functional farm web pages.
+
+## Jann - 
+    
+      * Displays an example of a portofolio design
